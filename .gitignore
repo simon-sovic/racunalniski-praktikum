@@ -1,0 +1,14 @@
+*.pdf
+!06-uvod-v-latex/urnik.pdf
+!07-magicni-kvadrati/magic.pdf
+*.aux
+*.fls
+*.fdb_latexmk
+*.log
+*.synctex.gz
+*.out
+*.bbl
+*.blg
+*.toc
+latex-pregled/
+*/test/
